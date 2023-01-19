@@ -1,3 +1,5 @@
+//https://www.beecrowd.com.br/judge/pt/problems/view/1171/11?origem=1
+
 import java.util.*;
 
 public class FrequenciaDeNumeros {

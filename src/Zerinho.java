@@ -1,3 +1,5 @@
+//https://www.beecrowd.com.br/judge/pt/problems/view/1467/11?origem=1
+
 import java.util.Scanner;
 public class Zerinho {
     static int ali;

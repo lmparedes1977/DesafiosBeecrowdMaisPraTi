@@ -1,6 +1,6 @@
-import com.sun.nio.sctp.AbstractNotificationHandler;
+//https://www.beecrowd.com.br/judge/pt/problems/view/1103/11?origem=1
 
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class AlarmeDespertador {
@@ -14,8 +14,6 @@ public class AlarmeDespertador {
         } else{
             System.out.println("Vocês descançará " + delta_minutos);
         }
-
-
     }
 
     private static Integer[] recebeDados() {
@@ -39,9 +37,6 @@ public class AlarmeDespertador {
         }
         return dados;
     }
-
-
-
 
 
 }

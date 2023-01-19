@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c792423-5eb4-47d7-a5f6-702b0a0de9d1" name="Changes" comment="commit 18jan23">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafiosBeecrowdMaisPraTi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TopN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zerinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetlineTwoFrutas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlarmeDespertador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlarmeDespertador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BilhetesFalsos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BilhetesFalsos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FrequenciaDeNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrequenciaDeNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gangorra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gangorra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopMusical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TopN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zerinho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zerinho.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674066330747</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 18jan23">
+      <created>1674066778588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674066778588</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
