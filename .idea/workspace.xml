@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c792423-5eb4-47d7-a5f6-702b0a0de9d1" name="Changes" comment="commit 18jan23">
-      <change afterPath="$PROJECT_DIR$/src/GetlineTwoFrutas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlarmeDespertador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlarmeDespertador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BilhetesFalsos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BilhetesFalsos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FrequenciaDeNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrequenciaDeNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Gangorra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gangorra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoopMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopMusical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TopN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zerinho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zerinho.java" afterDir="false" />
-    </list>
+    <list default="true" id="1c792423-5eb4-47d7-a5f6-702b0a0de9d1" name="Changes" comment="commit 18jan23" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
